@@ -1,6 +1,6 @@
 import "./footer.css";
 import { BsInstagram, BsTelegram, BsLinkedin } from "react-icons/bs";
-import TAU from "../../assets/tau.png";
+import TAU from "../../assets/TAU.png";
 
 const Footer = () => {
   return (
